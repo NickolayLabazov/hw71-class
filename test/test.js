@@ -1,4 +1,4 @@
-import Character from '../src/function.js';
+import Character from '../src/function';
 
 
 test('Undead', () => {
